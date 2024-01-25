@@ -4,6 +4,9 @@ Welcome! This is a frontend instance of a planned web forum website, which I am 
 
 It runs on React, leveraging the Material UI library.
 
+## NOTE
+NOTE: This repository is effectively a continuation of my previous work for CVWO's 2024 Assignment at https://github.com/josh1248/forum-website-frontend, which is itself a fork of CVWO's provided Go skeleton project at https://github.com/CVWO/sample-react-app. Self-forking is not allowed, forking through an alternate account did not seem optimal. Hence, I copied my local files over to this repository.
+
 ## How To Setup
 
 1. You should first set-up the backend through which this frontend will connect to. You can find the repo containing the backend snapshot [here](https://github.com/josh1248/cvwo-assignment-24-backend).
